@@ -1,2 +1,2 @@
-# Seminario_AA_2020.1_JosemarRocha
+# Seminário Análise de Algoritmos 2020.1 Josemar Rocha da Silva
 Seminário para a disciplina de Análise de Algoritmos ministrada pelo professor Herbert Oliveira Rocha.
